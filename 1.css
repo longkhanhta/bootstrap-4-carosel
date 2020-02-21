@@ -1,0 +1,26 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.topdecu {
+    position: relative;
+}
+.nuttrai{
+    /* margin: 70px 70px 70px 30px; */
+    width: 40px;
+    height: 40px;
+    background-color: #B4B2BF;
+    position: absolute;
+    top: 60px;
+    left: 40px;
+    border-radius: 5px;
+}
+.nutphai{
+    /* margin: 70px 70px 70px 30px; */
+    width: 40px;
+    height: 40px;
+    background-color: #B4B2BF;
+    position: absolute;
+    top: 60px;
+    right: 40px;
+}
